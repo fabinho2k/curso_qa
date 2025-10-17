@@ -1,6 +1,6 @@
 nome = input('Informe o nome do seu dog: ')
-idade = input("Informe a idade humana em anos do seu dog: ")
-idade_real = int(idade) * 7
+idade = int(input("Informe a idade humana em anos do seu dog: "))
+idade_real = idade * 7
 
 print(f'A idade do seu dog, em anos de cachorro é {idade_real} ')
 
@@ -26,4 +26,4 @@ elif porte_dog == 'pequeno':
     custo = 5
     lucro = (banho - custo) * qtde_banhos
     print(f'Olá, {nome} tem {idade_real} e nos últimos 12 meses o lucro desse animal foi de R${lucro:.2f}')
-    
+
