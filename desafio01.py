@@ -3,4 +3,5 @@ print(f'Olá {nome}. Em janeiro você realizou uma compra no valor de R$500,00 e
 cupom = input('Informe o cupom de desconto: ')
 valor_compra = 500
 desconto = 500 * 0.1
-print(f"Sua compra de R${valor_compra}, e você teve um desconto de R${desconto} com o cupom. Valor final R${valor_compra - desconto}")
+mensagem = (f"Sua compra de R${valor_compra}, e você teve um desconto de R${desconto} com o cupom. Valor final R${valor_compra - desconto}")
+print(mensagem)
