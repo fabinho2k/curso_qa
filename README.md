@@ -1,2 +1,2 @@
 ### Curso do Instituto Joga Junto
-1- Primeiros Exercícios
+- Repositório para scrips relacionados ao curso!
