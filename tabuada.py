@@ -1,5 +1,6 @@
 def tabuada(numero):
+    print(f'Tabuada do {numero}')
     for i in range(1,11):
-        print(f'O valor de {numero} multiplicado por {i} é: {i * numero}')
+        print(f'{numero} x {i} = {i * numero}')
 
-tabuada(5)
+tabuada(10)
