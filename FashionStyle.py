@@ -1,3 +1,5 @@
+
+
 nome = input('Informe seu nome: ')
 valor_compra = float(input('Informe o valor da sua compra: '))
 
