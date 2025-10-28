@@ -1,3 +1,6 @@
+
+#Código feito com ajuda de IA
+
 def simular_catraca_juntofit():
     """
     Simula a lógica da catraca para a promoção "Treina Junto" da JUNTOFIT.
