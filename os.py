@@ -37,4 +37,5 @@ def manipulacao():
         print(arquivo)
         print('\n')
 
+#Chamando a função para gerar todo processo do exercício
 manipulacao()
